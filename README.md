@@ -8,3 +8,6 @@ Here is my email:
 
 ## Indexs  
 
+### TheWayToGo  
+* [初试Go](https://github.com/StupidL/StupidBlogs/tree/master/Blogs/01_1.md)  
+
