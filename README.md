@@ -8,6 +8,10 @@ Here is my email:
 
 ## Indexs  
 
-### TheWayToGo  
+### The Way To Go  
 * [初试Go](https://github.com/StupidL/StupidBlogs/tree/master/Blogs/01_1.md)  
+
+### Java  
+* [使用Gradle构建Java项目](https://github.com/StupidL/StupidBlogs/tree/master/Blogs/build_java_projects_with_gradle.md)  
+
 
