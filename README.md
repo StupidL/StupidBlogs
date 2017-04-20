@@ -13,9 +13,10 @@ Here is my email:
 
 ### Java  
 * [使用Gradle构建Java项目](https://github.com/StupidL/StupidBlogs/tree/master/Blogs/build_java_projects_with_gradle.md)    
-* [记第一次体验SpringBoot](http://123.206.221.113/article/spring_boot_in_the_first_time)  
+* [记第一次体验SpringBoot](https://github.com/StupidL/StupidBlogs/tree/master/Blogs//spring_boot_in_the_first_time.md)  
 
 ### Android  
 * [每个人都会得自定义View（一）](https://github.com/StupidL/StupidBlogs/tree/master/Blogs/custom_arc_view.md)  
 
-
+### Git  
+* [在你自己的服务器上部署Git服务](https://github.com/StupidL/StupidBlogs/tree/master/Blogs/git_server.md)
